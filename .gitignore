@@ -1,0 +1,19 @@
+# Local runtime and editor files
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Credentials and private working material
+.env
+.env.*
+!.env.example
+credentials/
+private/
+work/
+outputs/
+*.log

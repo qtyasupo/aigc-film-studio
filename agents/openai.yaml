@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIGC 导演工作室"
+  short_description: "全 AIGC 影视创作：故事、视觉、表演、分镜、生成与成片检查"
+  default_prompt: "使用 $aigc-film-studio，把我的想法发展为可执行的全 AIGC 影视方案，按当前需求推进，并保留已确认的创作选择。"
